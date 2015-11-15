@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 3abdfd98b186f6e4e8a97fd662e7b253
+timeCreated: 1446963513
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet_0
+    21300002: Head
+    21300004: SpriteSheet_2
+    21300006: RightUpperArm
+    21300008: UpperBody
+    21300010: SpriteSheet_5
+    21300012: SpriteSheet_6
+    21300014: RightForeArm
+    21300016: RightCalf
+    21300018: LowerBody
+    21300020: Neck
+    21300022: RightHand
+    21300024: RightFoot
+    21300026: RightThigh
+    21300028: LeftHand
+    21300030: LeftFoot
+    21300032: SpriteSheet_16
+    21300034: SpriteSheet_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1069
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 889
+        width: 142
+        height: 160
+      alignment: 9
+      pivot: {x: .324482232, y: .308824539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1044
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightUpperArm
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 834
+        width: 124
+        height: 209
+      alignment: 9
+      pivot: {x: .57308954, y: .819810212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UpperBody
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 842
+        width: 276
+        height: 192
+      alignment: 9
+      pivot: {x: .721652031, y: .145972252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 915
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 908
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightForeArm
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 509
+        width: 111
+        height: 196
+      alignment: 9
+      pivot: {x: .285669833, y: .898822725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightCalf
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 500
+        width: 128
+        height: 268
+      alignment: 9
+      pivot: {x: .588506699, y: .893129051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerBody
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 518
+        width: 243
+        height: 276
+      alignment: 9
+      pivot: {x: .602566183, y: .282452583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neck
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 632
+        width: 89
+        height: 145
+      alignment: 9
+      pivot: {x: .512729585, y: .124974325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 250
+        width: 87
+        height: 147
+      alignment: 9
+      pivot: {x: .469556928, y: .887370825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightFoot
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 144
+        width: 100
+        height: 212
+      alignment: 9
+      pivot: {x: .486757517, y: .949751496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightThigh
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 72
+        width: 157
+        height: 325
+      alignment: 9
+      pivot: {x: .542174101, y: .817824423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftHand
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 288
+        width: 72
+        height: 136
+      alignment: 9
+      pivot: {x: .5, y: .918702304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 57
+        width: 128
+        height: 102
+      alignment: 9
+      pivot: {x: .231008053, y: .915456891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 44
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 44
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
