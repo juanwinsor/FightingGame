@@ -30,6 +30,7 @@ public class CharController : MonoBehaviour
 
   public float moveSpeed = 1.0f;
 
+
   public void Move(MoveDirection inputDirection)
   {
     if (inputDirection == MoveDirection.Right)
@@ -78,8 +79,25 @@ public class CharController : MonoBehaviour
       m_AnimationController.SetTrigger("Jump");
     }
   }
-  // Use this for initialization
-  void Start()
+
+    public void LightPunch()
+    {
+        m_AnimationController.SetTrigger("LightPunch");
+    }
+
+    public void MediumPunch()
+    {
+        m_AnimationController.SetTrigger("MediumPunch");
+    }
+
+    public void HeavyPunch()
+    {
+        m_AnimationController.SetTrigger("HeavyPunch");
+    }
+
+
+    // Use this for initialization
+    void Start()
   {
     m_Body = transform.GetComponent<Rigidbody2D>();
 

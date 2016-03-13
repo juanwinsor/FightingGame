@@ -46,5 +46,20 @@ public class PlayerController : MonoBehaviour
 
             characterController.Jump(m_Direction);
         }
+
+        if(Input.GetKeyDown(KeyCode.E))
+        {
+            characterController.LightPunch();
+        }
+
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            characterController.MediumPunch();
+        }
+
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            characterController.HeavyPunch();
+        }
     }
 }
